@@ -66,7 +66,7 @@ Hi there, I'm **wushengzhu**, a **social worker**. Here are some personal imform
 <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
 </picture>
 -->
-### 👨‍💻 Languages and Skills
+### 👨‍💻 Interest and Skills
 ```mermaid
 mindmap
   root((Sapper))
@@ -94,7 +94,7 @@ mindmap
       心理
       计算机技术
 ```
-<br />
+
   ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
   ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat)
   ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat)
