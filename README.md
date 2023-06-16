@@ -22,7 +22,7 @@ Hi there, I'm **wushengzhu**, a **social worker**. Here are some personal imform
 - Twitter: [![Twitter](https://img.shields.io/badge/@AlbertAbdilim-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/AlbertAbdilim) 
 - Weibo: [![Weibo](https://img.shields.io/badge/@Albert__Abdilim-E6162D?style=flat-square&logo=sina-weibo&logoColor=white)](https://weibo.com/1935602951)
 -->
-- JueJin：[![juejin](https://img.shields.io/badge/路灯下的光-1DA1F2?style=flat-square&logo=juejin&logoColor=white)](https://juejin.cn/user/2098283918929047)
+- JueJin：[![juejin](https://img.shields.io/badge/路灯下的光-1DA1F2?style=flat-square&logo=xitu-juejin-web&logoColor=white)](https://juejin.cn/user/2098283918929047)
 - Email: [![Email](https://img.shields.io/badge/ws_zhu@foxmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ws_zhu@foxmail.com)
 
 <!-- GitHub 奖杯🏆 
