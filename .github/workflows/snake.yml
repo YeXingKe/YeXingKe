@@ -21,5 +21,5 @@ jobs:
         with:
           branch: main
           message: "Generate Contribution Snake"
-        env:
-          GITHUB_TOKEN: ${{ secrets.WSZHU_TOKEN }}
+#         env:
+#           GITHUB_TOKEN: ${{ secrets.WSZHU_TOKEN }}
