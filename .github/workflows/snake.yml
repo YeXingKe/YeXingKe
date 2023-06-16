@@ -7,19 +7,19 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
-        uses: actions/checkout@v3
-      - name: Generate Snake
-        uses: Platane/snk@master
-        id: snake-gif
+      - uses: actions/checkout@v3
+      - uses: Platane/snk@master
         with:
-          github_user_name: ${{ github.repository_owner }}
-          gif_out_path: ./assets/github-contribution-grid-snake.gif
-          svg_out_path: ./assets/github-contribution-grid-snake.svg
-      - name: Push to GitHub
-        uses: EndBug/add-and-commit@v9.1.3
+          path: ./assets
+      - run: 
+          echo "github_user_name" >  ${{ github.repository_owner }}
+          echo "gif_out_path" > ./assets/github-contribution-grid-snake.gif
+          echo "svg_out_path" > ./assets/github-contribution-grid-snake.svg
+      - uses: EndBug/add-and-commit@v9
         with:
-          branch: main
-          message: "Generate Contribution Snake"
+           add: '*.js'
+           author_name: wushengzhu
+           author_email: ws_zhu@foxmail.com
+           message: 'Your commit message'
 #         env:
 #           GITHUB_TOKEN: ${{ secrets.WSZHU_TOKEN }}
