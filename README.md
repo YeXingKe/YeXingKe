@@ -66,7 +66,35 @@ Hi there, I'm **wushengzhu**, a **social worker**. Here are some personal imform
 <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
 </picture>
 -->
-### 👨‍💻 Skills
+### 👨‍💻 Languages and Skills
+```mermaid
+mindmap
+  root((Sapper))
+    编程
+      Web开发
+      Nodejs
+      网络爬虫
+      Go语言
+    摄影
+      人文
+      建筑
+      风景
+    旅行
+      东莞
+      深圳
+      珠海
+      肇庆
+      广州
+      桂林
+    阅读
+      人物传记
+      悬疑推理
+      余华合集
+      中国历史
+      心理
+      计算机技术
+```
+<br />
   ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
   ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat)
   ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat)
@@ -91,6 +119,15 @@ Hi there, I'm **wushengzhu**, a **social worker**. Here are some personal imform
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="Docker" title="Docker"></code>
 -->
 ### 👨‍💻 Repositorys
+ <!-- 在开发软件上开发语言统计 -->
+<table>
+  <tr>
+    <!-- 如vscode需要安装Wakatime插件然后去https://wakatime.com关联github然后获取 -->
+    <td><img src="https://wakatime.com/share/@81ceb0e9-cd9b-4498-82ca-0b7085e09f04/70cf9e71-6614-4d8b-b402-0705e0fdd9af.svg" width="500" alt="Wakatime"/></td>
+    <td><img src="https://wakatime.com/share/@81ceb0e9-cd9b-4498-82ca-0b7085e09f04/9dfa9401-667a-4592-9cb1-e69348877ce9.svg" width="500" alt="Wakatime"/></td>
+  </tr>
+</table>
+</div>
 <!-- Awesome repo 比较好的仓库-->
 <p align="center">
   <a width="50%" href="https://github.com/wushengzhu/learn-platform">
