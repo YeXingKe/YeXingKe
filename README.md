@@ -1,9 +1,8 @@
 ### Hey👋,I'm wushengzhu.
 
-Hi there, I'm **wushengzhu**, a **social worker**.
+Hi there, I'm **wushengzhu**, a **social worker**. Here are some personal imformations:
 
 <img align="right" alt="GIF" src="images/code.gif" width="343" height="220" title="Do what you like, and do it best!"> &nbsp;&nbsp;&nbsp;&nbsp;
-Here are some personal imformations:
 - 🔭 I’m currently working as a front-end engineer in Guangzhou, China.
 - 🌱 I’m currently learning React,qiankun.
 - 🎓 I have obtained a Bachelor's degree in Internet of Things Engineering and have graduated for two years now.
@@ -23,7 +22,7 @@ Here are some personal imformations:
 - Twitter: [![Twitter](https://img.shields.io/badge/@AlbertAbdilim-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/AlbertAbdilim) 
 - Weibo: [![Weibo](https://img.shields.io/badge/@Albert__Abdilim-E6162D?style=flat-square&logo=sina-weibo&logoColor=white)](https://weibo.com/1935602951)
 -->
-- JueJin：[![JueJin](https://img.shields.io/badge/路灯下的光-E6162D?style=flat-square&logo=juejin&logoColor=white)](https://juejin.cn/user/2098283918929047)
+- JueJin：[![juejin](https://img.shields.io/badge/路灯下的光-1DA1F2?style=flat-square&logo=juejin&logoColor=white)](https://juejin.cn/user/2098283918929047)
 - Email: [![Email](https://img.shields.io/badge/ws_zhu@foxmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ws_zhu@foxmail.com)
 
 <!-- GitHub 奖杯🏆 
@@ -47,6 +46,7 @@ Here are some personal imformations:
     <img src="https://badges.strrl.dev/commits/monthly/wushengzhu?style=flat-square&color=green&logo=github">
   </a>
 </p>
+
 <!-- GitHub 数据统计 -->
 <p align="center">
 <img height="137px" src="https://github-readme-stats.vercel.app/api?username=wushengzhu&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
@@ -69,20 +69,18 @@ Here are some personal imformations:
 </picture>
 -->
 ### 👨‍💻 Skills
-<p align="center">
-![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
-![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat)
-![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat)
-![TypeScript Badge](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat)
-![Angular Badge](https://img.shields.io/badge/Angular-61DAFB?logo=angular&logoColor=fff&style=flat)
-![Vue.js Badge](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff&style=flat)
-![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat)
-![MongoDB Badge](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=flat)
-![Node.js Badge](https://img.shields.io/badge/Node.js-393?logo=nodedotjs&logoColor=fff&style=flat)
-![Nest.js Badge](https://img.shields.io/badge/Nest.js-393?logo=nestdotjs&logoColor=fff&style=flat)
-![Vite Badge](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff&style=flat)
-![Three.js Badge](https://img.shields.io/badge/Three.js-092E20?logo=threedotjs&logoColor=fff&style=flat)  
-</p>
+  ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
+  ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat)
+  ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat)
+  ![TypeScript Badge](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat)
+  ![Angular Badge](https://img.shields.io/badge/Angular-61DAFB?logo=angular&logoColor=fff&style=flat)
+  ![Vue.js Badge](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff&style=flat)
+  ![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat)
+  ![MongoDB Badge](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=flat)
+  ![Node.js Badge](https://img.shields.io/badge/Node.js-393?logo=nodedotjs&logoColor=fff&style=flat)
+  ![Nest.js Badge](https://img.shields.io/badge/Nest.js-393?logo=nestdotjs&logoColor=fff&style=flat)
+  ![Vite Badge](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff&style=flat)
+  ![Three.js Badge](https://img.shields.io/badge/Three.js-092E20?logo=threedotjs&logoColor=fff&style=flat)  
 
 <!--
 <code>
@@ -94,7 +92,7 @@ Here are some personal imformations:
 <code><img height="20" src="https://user-images.githubusercontent.com/29084184/218291328-d57affa6-dba3-4ba1-90ff-25cb273fcd84.png" alt="MongoDB" title="mongodb"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="Docker" title="Docker"></code>
 -->
-### 👨‍💻 Skills
+### 👨‍💻 Repositorys
 <!-- Awesome repo 比较好的仓库-->
 <p align="center">
   <a width="50%" href="https://github.com/wushengzhu/learn-platform">
