@@ -13,7 +13,7 @@ jobs:
     steps:
     - uses: actions/checkout@v3
     - name: Update README.md
-      run: node index.js > README.md
+      run: node progress.js > README.md
     - name: Commit change & Push
       run: |
           git config user.name 'github-actions[bot]'
