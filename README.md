@@ -29,19 +29,19 @@ Hi there, I'm **wushengzhu**, a **social worker**. Here are some personal imform
 ### 🔎 Github statistics
 <p align="center">
   <a href="https://github.com/wushengzhu">
-    <img src="https://badges.strrl.dev/visits/wushengzhu/wushengzhu?style=flat-square&color=green&logo=github">
+    <img src="https://badges.strrl.dev/visits/wushengzhu/wushengzhu?style=flat-square&color=blue&logo=github">
   </a>
   <a href="https://github.com/wushengzhu">
-    <img src="https://badges.strrl.dev/years/wushengzhu?style=flat-square&color=green&logo=github">
+    <img src="https://badges.strrl.dev/years/wushengzhu?style=flat-square&color=blue&logo=github">
   </a>
   <a href="https://github.com/wushengzhu?tab=repositories">
-    <img src="https://badges.strrl.dev/repos/wushengzhu?style=flat-square&color=green&logo=github">
+    <img src="https://badges.strrl.dev/repos/wushengzhu?style=flat-square&color=blue&logo=github">
   </a>
   <a href="https://gist.github.com/wushengzhu">
-    <img src="https://badges.strrl.dev/gists/wushengzhu?style=flat-square&color=green&logo=github">
+    <img src="https://badges.strrl.dev/gists/wushengzhu?style=flat-square&color=blue&logo=github">
   </a>
   <a href="https://github.com/wushengzhu">
-    <img src="https://badges.strrl.dev/commits/monthly/wushengzhu?style=flat-square&color=green&logo=github">
+    <img src="https://badges.strrl.dev/commits/monthly/wushengzhu?style=flat-square&color=blue&logo=github">
   </a>
 </p>
 
