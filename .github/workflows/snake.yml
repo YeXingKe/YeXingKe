@@ -1,7 +1,8 @@
 name: Generate Snake
 on:
   schedule:
-#     - cron: "0 0 * * *"
+#     - cron: "0 0 * * *" 此action有误先注释时间
+      - cron: ""
   workflow_dispatch:
 jobs:
   build:
