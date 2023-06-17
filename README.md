@@ -69,7 +69,7 @@ Hi there, I'm **Sapper**, a **social worker**. Here are some personal imformatio
 
 <!-- repo 比较好的仓库-->
 <!--
-<p align="center">
+<div align="center">
   <a width="50%" href="https://github.com/wushengzhu/learn-platform">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=wushengzhu&repo=learn-platform&theme=dark&bg_color=121212&hide_border=true" /></a>
 <a width="50%" href="https://github.com/wushengzhu/mutiplexed-elplus">
@@ -78,7 +78,7 @@ Hi there, I'm **Sapper**, a **social worker**. Here are some personal imformatio
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=wushengzhu&repo=create-template-cli&theme=dark&bg_color=121212&hide_border=true" /></a>
 <a width="50%" href="https://github.com/wushengzhu/auction">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=wushengzhu&repo=auction&theme=dark&bg_color=121212&hide_border=true" /></a><br>  
-</p>
+</div>
 -->
 
 <!-- 
@@ -150,7 +150,7 @@ mindmap
   <tr>
     <!-- 如vscode需要安装Wakatime插件然后去https://wakatime.com关联github然后获取 -->
     <td><img src="https://wakatime.com/share/@81ceb0e9-cd9b-4498-82ca-0b7085e09f04/0d3e3338-f4d3-4326-b23d-ca1e49b248cd.svg" width="500" alt="Wakatime"/></td>
-    <td><img src="https://wakatime.com/share/@81ceb0e9-cd9b-4498-82ca-0b7085e09f04/0cbfb83a-5d31-4b4a-b82d-aded5d747cef.svg"/></td>
+    <td><img src="https://wakatime.com/share/@81ceb0e9-cd9b-4498-82ca-0b7085e09f04/0cbfb83a-5d31-4b4a-b82d-aded5d747cef.svg" width="500" alt="Wakatime"/></td>
   </tr>
 </table>
 </div>
