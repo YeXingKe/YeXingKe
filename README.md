@@ -132,6 +132,7 @@ mindmap
 </table>
 </div>
 <!-- Awesome repo 比较好的仓库-->
+<!--
 <p align="center">
   <a width="50%" href="https://github.com/wushengzhu/learn-platform">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=wushengzhu&repo=learn-platform&theme=dark&bg_color=121212&hide_border=true" /></a>
@@ -142,4 +143,18 @@ mindmap
 <a width="50%" href="https://github.com/wushengzhu/auction">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=wushengzhu&repo=auction&theme=dark&bg_color=121212&hide_border=true" /></a><br>  
 </p>
+-->
+<div align="center">
+  
+|                        Project                         |                            Stars                              |                            Forks                             |              Remark              |
+| :----------------------------------------------------: | :-----------------------------------------------------------------: | :--------------------------------------------------------------------: | :-------------------------------------------------------------------------------: |
+| [learn-platform](https://github.com/wushengzhu/learn-platform) | ![](https://img.shields.io/github/stars/wushengzhu/learn-platform?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/wushengzhu/learn-platform?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 在线兴趣学习平台 |
+| [mutiplexed-elplus](https://github.com/wushengzhu/mutiplexed-elplus) | ![](https://img.shields.io/github/stars/wushengzhu/mutiplexed-elplus?color=f2f08d&logo=Undertale&logoColor=eb4630)  | ![](https://img.shields.io/github/forks/wushengzhu/mutiplexed-elplus?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 基于Vue的各种业务组件包  |
+| [create-template-cli](https://github.com/wushengzhu/create-template-cli) | ![](https://img.shields.io/github/stars/wushengzhu/create-template-cli?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/wushengzhu/create-template-cli?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 🚀 初始化项目命令工具 🧰  |
+| [auction](https://github.com/wushengzhu/auction) | ![](https://img.shields.io/github/stars/wushengzhu/auction?color=f2f08d&logo=Undertale&logoColor=eb4630)  | ![](https://img.shields.io/github/forks/wushengzhu/auction?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 廉洁拍卖系统  |  
+
+</div>
+
+
+
 
