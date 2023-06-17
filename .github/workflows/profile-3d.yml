@@ -2,7 +2,8 @@ name: GitHub-Profile-3D-Contrib
 
 on:
   schedule: # 02:00 BJT == 18:00 UTC
-#     - cron: "0 18 * * *"
+#     - cron: "0 0 * * *" 此action有误先注释时间
+      - cron: ""
   workflow_dispatch:
 
 jobs:
