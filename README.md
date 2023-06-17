@@ -26,8 +26,8 @@ Hi there, I'm **wushengzhu**, a **social worker**. Here are some personal imform
 <!-- GitHub 奖杯🏆 
 <img  src="https://github-profile-trophy.vercel.app/?username=wushengzhu&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /><br>
 -->
-### 🔎 Github statistics
-<p align="center">
+### 🔎 Repositorys and Statistics
+<div align="center">
   <a href="https://github.com/wushengzhu">
     <img src="https://badges.strrl.dev/visits/wushengzhu/wushengzhu?style=flat-square&color=blue&logo=github">
   </a>
@@ -43,13 +43,19 @@ Hi there, I'm **wushengzhu**, a **social worker**. Here are some personal imform
   <a href="https://github.com/wushengzhu">
     <img src="https://badges.strrl.dev/commits/monthly/wushengzhu?style=flat-square&color=blue&logo=github">
   </a>
-</p>
+  <br/>
+  
+|                        Project                         |                            Stars                              |                            Forks                             |              Remark              |
+| :----------------------------------------------------: | :-----------------------------------------------------------------: | :--------------------------------------------------------------------: | :-------------------------------------------------------------------------------: |
+| [learn-platform](https://github.com/wushengzhu/learn-platform) | ![](https://img.shields.io/github/stars/wushengzhu/learn-platform?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/wushengzhu/learn-platform?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 在线兴趣学习平台 |
+| [mutiplexed-elplus](https://github.com/wushengzhu/mutiplexed-elplus) | ![](https://img.shields.io/github/stars/wushengzhu/mutiplexed-elplus?color=f2f08d&logo=Undertale&logoColor=eb4630)  | ![](https://img.shields.io/github/forks/wushengzhu/mutiplexed-elplus?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 基于Vue的各种业务组件包  |
+| [create-template-cli](https://github.com/wushengzhu/create-template-cli) | ![](https://img.shields.io/github/stars/wushengzhu/create-template-cli?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/wushengzhu/create-template-cli?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 🚀 初始化项目命令工具 🧰  |
+| [auction](https://github.com/wushengzhu/auction) | ![](https://img.shields.io/github/stars/wushengzhu/auction?color=f2f08d&logo=Undertale&logoColor=eb4630)  | ![](https://img.shields.io/github/forks/wushengzhu/auction?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 廉洁拍卖系统  |  
 
 <!-- GitHub 数据统计 -->
-<p align="center">
 <img height="137px" src="https://github-readme-stats.vercel.app/api?username=wushengzhu&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
-<img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wushengzhu&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />   
-</p>
+<img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wushengzhu&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />  
+</div>
 
 <!-- GitHub 数据统计 -->
 <!--
@@ -60,7 +66,23 @@ Hi there, I'm **wushengzhu**, a **social worker**. Here are some personal imform
 </p>
 -->
 
-<!-- Snake Code Contribution Map 贪吃蛇代码贡献图   <picture>
+<!-- repo 比较好的仓库-->
+<!--
+<p align="center">
+  <a width="50%" href="https://github.com/wushengzhu/learn-platform">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=wushengzhu&repo=learn-platform&theme=dark&bg_color=121212&hide_border=true" /></a>
+<a width="50%" href="https://github.com/wushengzhu/mutiplexed-elplus">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=wushengzhu&repo=mutiplexed-elplus&theme=dark&bg_color=121212&hide_border=true" /></a><br>
+<a width="50%" href="https://github.com/wushengzhu/create-template-cli">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=wushengzhu&repo=create-template-cli&theme=dark&bg_color=121212&hide_border=true" /></a>
+<a width="50%" href="https://github.com/wushengzhu/auction">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=wushengzhu&repo=auction&theme=dark&bg_color=121212&hide_border=true" /></a><br>  
+</p>
+-->
+
+<!-- 
+Snake Code Contribution Map 贪吃蛇代码贡献图   
+<picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
 <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake.svg" />
 <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
@@ -121,7 +143,7 @@ mindmap
 <code><img height="20" src="https://user-images.githubusercontent.com/29084184/218291328-d57affa6-dba3-4ba1-90ff-25cb273fcd84.png" alt="MongoDB" title="mongodb"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="Docker" title="Docker"></code>
 -->
-### 👨‍💻 Repositorys
+### 👨‍💻 Language usage
  <!-- 在开发软件上开发语言统计 -->
 <table>
   <tr>
@@ -131,30 +153,3 @@ mindmap
   </tr>
 </table>
 </div>
-<!-- Awesome repo 比较好的仓库-->
-<!--
-<p align="center">
-  <a width="50%" href="https://github.com/wushengzhu/learn-platform">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=wushengzhu&repo=learn-platform&theme=dark&bg_color=121212&hide_border=true" /></a>
-<a width="50%" href="https://github.com/wushengzhu/mutiplexed-elplus">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=wushengzhu&repo=mutiplexed-elplus&theme=dark&bg_color=121212&hide_border=true" /></a><br>
-<a width="50%" href="https://github.com/wushengzhu/create-template-cli">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=wushengzhu&repo=create-template-cli&theme=dark&bg_color=121212&hide_border=true" /></a>
-<a width="50%" href="https://github.com/wushengzhu/auction">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=wushengzhu&repo=auction&theme=dark&bg_color=121212&hide_border=true" /></a><br>  
-</p>
--->
-<div align="center">
-  
-|                        Project                         |                            Stars                              |                            Forks                             |              Remark              |
-| :----------------------------------------------------: | :-----------------------------------------------------------------: | :--------------------------------------------------------------------: | :-------------------------------------------------------------------------------: |
-| [learn-platform](https://github.com/wushengzhu/learn-platform) | ![](https://img.shields.io/github/stars/wushengzhu/learn-platform?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/wushengzhu/learn-platform?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 在线兴趣学习平台 |
-| [mutiplexed-elplus](https://github.com/wushengzhu/mutiplexed-elplus) | ![](https://img.shields.io/github/stars/wushengzhu/mutiplexed-elplus?color=f2f08d&logo=Undertale&logoColor=eb4630)  | ![](https://img.shields.io/github/forks/wushengzhu/mutiplexed-elplus?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 基于Vue的各种业务组件包  |
-| [create-template-cli](https://github.com/wushengzhu/create-template-cli) | ![](https://img.shields.io/github/stars/wushengzhu/create-template-cli?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/wushengzhu/create-template-cli?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 🚀 初始化项目命令工具 🧰  |
-| [auction](https://github.com/wushengzhu/auction) | ![](https://img.shields.io/github/stars/wushengzhu/auction?color=f2f08d&logo=Undertale&logoColor=eb4630)  | ![](https://img.shields.io/github/forks/wushengzhu/auction?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 廉洁拍卖系统  |  
-
-</div>
-
-
-
-
