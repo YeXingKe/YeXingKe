@@ -47,11 +47,11 @@ Hi there, I'm **Sapper**, a **social worker**. Here are some personal imformatio
   <br/>
   
 |                        Project                         |                            Stars                              |                            Forks                             |              Remark              |
-| :----------------------------------------------------: | :-----------------------------------------------------------------: | :--------------------------------------------------------------------: | :-------------------------------------------------------------------------------: |
-| [learn-platform](https://github.com/wushengzhu/learn-platform) | ![](https://img.shields.io/github/stars/wushengzhu/learn-platform?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/wushengzhu/learn-platform?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 在线兴趣学习平台 |
-| [mutiplexed-elplus](https://github.com/wushengzhu/mutiplexed-elplus) | ![](https://img.shields.io/github/stars/wushengzhu/mutiplexed-elplus?color=f2f08d&logo=Undertale&logoColor=eb4630)  | ![](https://img.shields.io/github/forks/wushengzhu/mutiplexed-elplus?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 基于Vue的各种业务组件包  |
-| [create-template-cli](https://github.com/wushengzhu/create-template-cli) | ![](https://img.shields.io/github/stars/wushengzhu/create-template-cli?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/wushengzhu/create-template-cli?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 🚀 初始化项目命令工具 🧰  |
-| [auction](https://github.com/wushengzhu/auction) | ![](https://img.shields.io/github/stars/wushengzhu/auction?color=f2f08d&logo=Undertale&logoColor=eb4630)  | ![](https://img.shields.io/github/forks/wushengzhu/auction?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 廉洁拍卖系统  |  
+| :---------------------------------------------------------: | :---------------------------------------------------------------------------------------: | :--------------------------------------------------------------------: | :-------------------------------------------------------------------------------------: |
+|       [learn-platform](https://github.com/wushengzhu/learn-platform)      |![](https://img.shields.io/github/stars/wushengzhu/learn-platform?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/wushengzhu/learn-platform?color=ba86eb&logo=Handshake&logoColor=ea6aa6) |       🚀 在线兴趣学习平台     |
+|       [mutiplexed-elplus](https://github.com/wushengzhu/mutiplexed-elplus)     | ![](https://img.shields.io/github/stars/wushengzhu/mutiplexed-elplus?color=f2f08d&logo=Undertale&logoColor=eb4630)  | ![](https://img.shields.io/github/forks/wushengzhu/mutiplexed-elplus?color=ba86eb&logo=Handshake&logoColor=ea6aa6) |      🚀 基于Vue的各种业务组件包      |
+|       [create-template-cli](https://github.com/wushengzhu/create-template-cli)       | ![](https://img.shields.io/github/stars/wushengzhu/create-template-cli?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/wushengzhu/create-template-cli?color=ba86eb&logo=Handshake&logoColor=ea6aa6) |      🚀 初始化项目命令工具 🧰     |
+|       [auction](https://github.com/wushengzhu/auction)       | ![](https://img.shields.io/github/stars/wushengzhu/auction?color=f2f08d&logo=Undertale&logoColor=eb4630)  | ![](https://img.shields.io/github/forks/wushengzhu/auction?color=ba86eb&logo=Handshake&logoColor=ea6aa6) |      🚀 廉洁拍卖系统       |  
 
 <!-- GitHub 数据统计 -->
 <img height="137px" src="https://github-readme-stats.vercel.app/api?username=wushengzhu&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
@@ -149,8 +149,8 @@ mindmap
 <table>
   <tr>
     <!-- 如vscode需要安装Wakatime插件然后去https://wakatime.com关联github然后获取 -->
-    <td><img src="https://wakatime.com/share/@81ceb0e9-cd9b-4498-82ca-0b7085e09f04/70cf9e71-6614-4d8b-b402-0705e0fdd9af.svg" width="500" alt="Wakatime"/></td>
-    <td><img src="https://wakatime.com/share/@81ceb0e9-cd9b-4498-82ca-0b7085e09f04/9dfa9401-667a-4592-9cb1-e69348877ce9.svg" width="500" alt="Wakatime"/></td>
+    <td><img src="https://wakatime.com/share/@81ceb0e9-cd9b-4498-82ca-0b7085e09f04/0d3e3338-f4d3-4326-b23d-ca1e49b248cd.svg" width="500" alt="Wakatime"/></td>
+    <td><img src="https://wakatime.com/share/@81ceb0e9-cd9b-4498-82ca-0b7085e09f04/0cbfb83a-5d31-4b4a-b82d-aded5d747cef.svg"/></td>
   </tr>
 </table>
 </div>
