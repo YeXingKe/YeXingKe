@@ -74,9 +74,9 @@ Hi there, I'm **Sapper**, a **social worker**. Here are some personal imformatio
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=wushengzhu&repo=learn-platform&theme=dark&bg_color=121212&hide_border=true" /></a>
 <a width="50%" href="https://github.com/wushengzhu/mutiplexed-elplus">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=wushengzhu&repo=mutiplexed-elplus&theme=dark&bg_color=121212&hide_border=true" /></a><br>
-<a width="50%" href="https://github.com/wushengzhu/create-template-cli">
+<a width="500" href="https://github.com/wushengzhu/create-template-cli">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=wushengzhu&repo=create-template-cli&theme=dark&bg_color=121212&hide_border=true" /></a>
-<a width="50%" href="https://github.com/wushengzhu/auction">
+<a width="500" href="https://github.com/wushengzhu/auction">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=wushengzhu&repo=auction&theme=dark&bg_color=121212&hide_border=true" /></a><br>  
 </div>
 -->
@@ -144,13 +144,3 @@ mindmap
 <code><img height="20" src="https://user-images.githubusercontent.com/29084184/218291328-d57affa6-dba3-4ba1-90ff-25cb273fcd84.png" alt="MongoDB" title="mongodb"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="Docker" title="Docker"></code>
 -->
-### 👨‍💻 Language usage
- <!-- 在开发软件上开发语言统计 -->
-<table>
-  <tr>
-    <!-- 如vscode需要安装Wakatime插件然后去https://wakatime.com关联github然后获取 -->
-    <td><img src="https://wakatime.com/share/@81ceb0e9-cd9b-4498-82ca-0b7085e09f04/0d3e3338-f4d3-4326-b23d-ca1e49b248cd.svg" width="500" alt="Wakatime"/></td>
-    <td><img src="https://wakatime.com/share/@81ceb0e9-cd9b-4498-82ca-0b7085e09f04/0cbfb83a-5d31-4b4a-b82d-aded5d747cef.svg" width="500" alt="Wakatime"/></td>
-  </tr>
-</table>
-</div>
