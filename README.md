@@ -1,18 +1,14 @@
 ### Hey👋,I'm Sapper.
 Hi there, I'm **Sapper**, a **social worker**. Here are some personal imformations:
-<img align="right" alt="GIF" src="assets/code.gif" width="343" height="220" title="Do what you like, and do it best!"/> &nbsp;&nbsp;&nbsp;&nbsp;
+<img align="right" alt="GIF" src="https://github.githubassets.com/images/modules/site/home-campaign/astrocat.png" width="320" height="320" title="Do what you like, and do it best!"/> &nbsp;&nbsp;
 - 🔭 I’m currently working as a front-end engineer in Guangzhou, China.
 - 🌱 I’m currently learning React,qiankun.
 - 🎓 I have obtained a Bachelor's degree in Internet of Things Engineering.
 - 😄 Pronouns: Don't overestimate a day's progress, don't underestimate a year's accumulation.
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email me if you have any questions 👇.
-
+<!--备用图片 <img align="right" alt="GIF" src="assets/code.gif" width="343" height="220" title="Do what you like, and do it best!"/> &nbsp;&nbsp;&nbsp;&nbsp; -->
 <!-- ![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=wushengzhu&show_icons=true&theme=radical) -->
-<!-- 
-<a href="https://github.com/wushengzhu"><img align="center" src="https://github-readme-stats.vercel.app/api?username=wushengzhu&show_icons=true&theme=radical" alt="Sapper's github stats" /></a>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wushengzhu&layout=compact&theme=radical&hide_border=true" />
--->
 
 ### ✉ Contact me:
 <!--
@@ -20,6 +16,7 @@ Hi there, I'm **Sapper**, a **social worker**. Here are some personal imformatio
 - Twitter: [![Twitter](https://img.shields.io/badge/@AlbertAbdilim-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/AlbertAbdilim) 
 - Weibo: [![Weibo](https://img.shields.io/badge/@Albert__Abdilim-E6162D?style=flat-square&logo=sina-weibo&logoColor=white)](https://weibo.com/1935602951)
 -->
+
 - Issues：[![github issues](https://img.shields.io/badge/github.issues-3693F3?style=flat-square&logo=github&logoColor=white)](https://github.com/wushengzhu/wushengzhu/issues )
 - JueJin：[![juejin](https://img.shields.io/badge/路灯下的光-333?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzYiIGhlaWdodD0iMjgiIHZpZXdCb3g9IjAgMCAzNiAyOCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0xNy41ODc1IDYuNzcyNjhMMjEuODIzMiAzLjQwNTA1TDE3LjU4NzUgMC4wMDc0ODIzN0wxNy41ODM3IDBMMTMuMzU1NSAzLjM5NzU3TDE3LjU4MzcgNi43Njg5NEwxNy41ODc1IDYuNzcyNjhaTTE3LjU4NjMgMTcuMzk1NUgxNy41OUwyOC41MTYxIDguNzc0MzJMMjUuNTUyNiA2LjM5NDUzTDE3LjU5IDEyLjY4MDhIMTcuNTg2M0wxNy41ODI1IDEyLjY4NDVMOS42MTk5MyA2LjQwMjAxTDYuNjYwMTYgOC43ODE4MUwxNy41ODI1IDE3LjM5OTJMMTcuNTg2MyAxNy4zOTU1Wk0xNy41ODI4IDIzLjI4OTFMMTcuNTg2NSAyMy4yODU0TDMyLjIxMzMgMTEuNzQ1NkwzNS4xNzY4IDE0LjEyNTRMMjguNTIzOCAxOS4zNzUyTDE3LjU4NjUgMjhMMC4yODQzNzYgMTQuMzU3NEwwIDE0LjEyOTFMMi45NTk3NyAxMS43NTMxTDE3LjU4MjggMjMuMjg5MVoiIGZpbGw9IiMxRTgwRkYiLz4KPC9zdmc+Cg==&logoColor=white)](https://juejin.cn/user/2098283918929047)
 - Email: [![Email](https://img.shields.io/badge/ws_zhu@foxmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ws_zhu@foxmail.com)
@@ -63,22 +60,7 @@ Hi there, I'm **Sapper**, a **social worker**. Here are some personal imformatio
 <p align="center">
 <img height="137px" src="https://github-readme-stats.vercel.app/api?username=wushengzhu&hide_title=true&hide_border=true&show_icons=trueline_height=21&icon_color=yellow&theme=radical" /> 
 <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wushengzhu&hide_title=true&hide_border=true&layout=compact&langs_count=6&icon_color=yellow&theme=radical" />
-![](https://raw.githubusercontent.com/wushengzhu/wushengzhu/main/assets/github-contribution-grid-snake.svg)
 </p>
--->
-
-<!-- repo 比较好的仓库-->
-<!--
-<div align="center">
-  <a width="50%" href="https://github.com/wushengzhu/learn-platform">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=wushengzhu&repo=learn-platform&theme=dark&bg_color=121212&hide_border=true" /></a>
-<a width="50%" href="https://github.com/wushengzhu/mutiplexed-elplus">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=wushengzhu&repo=mutiplexed-elplus&theme=dark&bg_color=121212&hide_border=true" /></a><br>
-<a width="500" href="https://github.com/wushengzhu/create-template-cli">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=wushengzhu&repo=create-template-cli&theme=dark&bg_color=121212&hide_border=true" /></a>
-<a width="500" href="https://github.com/wushengzhu/auction">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=wushengzhu&repo=auction&theme=dark&bg_color=121212&hide_border=true" /></a><br>  
-</div>
 -->
 
 <!-- 
