@@ -1,13 +1,24 @@
 ### Hey👋,I'm Sapper.
-Hi there, I'm **Sapper**, a **social worker**. Here are some personal imformations:
 <img align="right" alt="GIF" src="https://github.githubassets.com/images/modules/site/home-campaign/astrocat.png" width="320" height="320" title="Do what you like, and do it best!"/> &nbsp;&nbsp;
+Hi there, I'm **Sapper**, a **social worker**. Here are some personal imformations:
 - 🔭 I’m currently working as a front-end engineer in Guangzhou, China.
-- 🌱 I’m currently learning React,qiankun.
 - 🎓 I have obtained a Bachelor's degree in Internet of Things Engineering.
 - 😄 Pronouns: Don't overestimate a day's progress, don't underestimate a year's accumulation.
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email me if you have any questions 👇.
 - ✉ Contact me: [![issues](https://img.shields.io/badge/issues-3693F3?style=flat-square&logo=github&logoColor=white)](https://github.com/wushengzhu/wushengzhu/issues ) [![juejin](https://img.shields.io/badge/juejin-333?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzYiIGhlaWdodD0iMjgiIHZpZXdCb3g9IjAgMCAzNiAyOCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0xNy41ODc1IDYuNzcyNjhMMjEuODIzMiAzLjQwNTA1TDE3LjU4NzUgMC4wMDc0ODIzN0wxNy41ODM3IDBMMTMuMzU1NSAzLjM5NzU3TDE3LjU4MzcgNi43Njg5NEwxNy41ODc1IDYuNzcyNjhaTTE3LjU4NjMgMTcuMzk1NUgxNy41OUwyOC41MTYxIDguNzc0MzJMMjUuNTUyNiA2LjM5NDUzTDE3LjU5IDEyLjY4MDhIMTcuNTg2M0wxNy41ODI1IDEyLjY4NDVMOS42MTk5MyA2LjQwMjAxTDYuNjYwMTYgOC43ODE4MUwxNy41ODI1IDE3LjM5OTJMMTcuNTg2MyAxNy4zOTU1Wk0xNy41ODI4IDIzLjI4OTFMMTcuNTg2NSAyMy4yODU0TDMyLjIxMzMgMTEuNzQ1NkwzNS4xNzY4IDE0LjEyNTRMMjguNTIzOCAxOS4zNzUyTDE3LjU4NjUgMjhMMC4yODQzNzYgMTQuMzU3NEwwIDE0LjEyOTFMMi45NTk3NyAxMS43NTMxTDE3LjU4MjggMjMuMjg5MVoiIGZpbGw9IiMxRTgwRkYiLz4KPC9zdmc+Cg==&logoColor=white)](https://juejin.cn/user/2098283918929047) [![Email](https://img.shields.io/badge/QQ-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ws_zhu@foxmail.com)
+- 🔎 Github Statistics：<a href="https://github.com/wushengzhu"><img src="https://badges.strrl.dev/visits/wushengzhu/wushengzhu?style=flat-square&color=blue&logo=github"> 
+   </a>
+  <a href="https://github.com/wushengzhu">
+    <img src="https://badges.strrl.dev/years/wushengzhu?style=flat-square&color=blue&logo=github">
+  </a>
+  <a href="https://github.com/wushengzhu?tab=repositories">
+    <img src="https://badges.strrl.dev/repos/wushengzhu?style=flat-square&color=blue&logo=github">
+  </a>
+  <a href="https://gist.github.com/wushengzhu">
+    <img src="https://badges.strrl.dev/gists/wushengzhu?style=flat-square&color=blue&logo=github">
+  </a>
+
 <!--备用图片 <img align="right" alt="GIF" src="assets/code.gif" width="343" height="220" title="Do what you like, and do it best!"/> &nbsp;&nbsp;&nbsp;&nbsp; -->
 <!-- ![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=wushengzhu&show_icons=true&theme=radical) -->
 
@@ -21,24 +32,10 @@ Hi there, I'm **Sapper**, a **social worker**. Here are some personal imformatio
 <!-- GitHub 奖杯🏆 
 <img  src="https://github-profile-trophy.vercel.app/?username=wushengzhu&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /><br>
 -->
-### 🔎 Repositorys and Statistics
+<div top="100"></div>
+
+<h2>Repositorys <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2>
 <div align="center">
-  <a href="https://github.com/wushengzhu">
-    <img src="https://badges.strrl.dev/visits/wushengzhu/wushengzhu?style=flat-square&color=blue&logo=github">
-  </a>
-  <a href="https://github.com/wushengzhu">
-    <img src="https://badges.strrl.dev/years/wushengzhu?style=flat-square&color=blue&logo=github">
-  </a>
-  <a href="https://github.com/wushengzhu?tab=repositories">
-    <img src="https://badges.strrl.dev/repos/wushengzhu?style=flat-square&color=blue&logo=github">
-  </a>
-  <a href="https://gist.github.com/wushengzhu">
-    <img src="https://badges.strrl.dev/gists/wushengzhu?style=flat-square&color=blue&logo=github">
-  </a>
-  <a href="https://github.com/wushengzhu">
-    <img src="https://badges.strrl.dev/commits/monthly/wushengzhu?style=flat-square&color=blue&logo=github">
-  </a>
-  <br/>
   
 |                        Project                         |                            Stars                              |                            Forks                             |              Remark              |
 | :------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------: | :--------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------: |
@@ -48,10 +45,12 @@ Hi there, I'm **Sapper**, a **social worker**. Here are some personal imformatio
 |       [interview-column](https://github.com/wushengzhu/interview-column)       | ![](https://img.shields.io/github/stars/wushengzhu/interview-column?color=f2f08d&logo=Undertale&logoColor=eb4630)  | ![](https://img.shields.io/github/forks/wushengzhu/interview-column?color=ba86eb&logo=Handshake&logoColor=ea6aa6) |      🚀 基于vuepress-theme-hope搭建的面试专栏系列       |  
 
 <!-- GitHub 数据统计 -->
-<img height="137px" src="https://github-readme-stats.vercel.app/api?username=wushengzhu&hide_title=true&show_icons=trueline_height=21" />
-<img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wushengzhu&hide_title=true&layout=compact&langs_count=6" />  
 </div>
-
+<h2>Statistics<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2>
+<div align="center">
+  <img height="137px"  src="https://github-readme-stats.vercel.app/api?username=wushengzhu&hide_title=true&show_icons=trueline_height=21" />
+  <img height="137px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=wushengzhu&hide_title=true&layout=compact&langs_count=6" />  
+</div>
 <!-- GitHub 数据统计 -->
 <!--
 <img height="137px" src="https://github-readme-stats.vercel.app/api?username=wushengzhu&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
@@ -66,11 +65,12 @@ Snake Code Contribution Map 贪吃蛇代码贡献图
 <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
 </picture>
 -->
-### 👨‍💻 Interest and Skills
+<h2>Technology<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2>
+
   ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
   ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat)
   ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat)
-  ![RxJS Badge](https://img.shields.io/badge/Reactive%20Extensions%20for%20JavaScript-F7DF1E?logo=RxJS&logoColor=fff&style=flat)
+  ![RxJS Badge](https://img.shields.io/badge/Rxjs-F7DF1E?logo=RxJS&logoColor=fff&style=flat)
   ![TypeScript Badge](https://img.shields.io/badge/TypeScript-F7DF1E?logo=typescript&logoColor=fff&style=flat)
   ![Angular Badge](https://img.shields.io/badge/Angular-61DAFB?logo=angular&logoColor=fff&style=flat)
   ![Vue.js Badge](https://img.shields.io/badge/Vue.js-61DAFB?logo=vuedotjs&logoColor=fff&style=flat)
