@@ -57,14 +57,8 @@ Hi there, I'm **Sapper**, a **social worker**. Here are some personal imformatio
 <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wushengzhu&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />  
 -->
 
-<!-- 
-Snake Code Contribution Map 贪吃蛇代码贡献图   
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
-<source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake.svg" />
-<img alt="github-snake" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
-</picture>
--->
+
+<--
 <h2>Technology<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2>
 
   ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
@@ -82,43 +76,4 @@ Snake Code Contribution Map 贪吃蛇代码贡献图
   ![Vite Badge](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff&style=flat)
   ![Webpack Badge](https://img.shields.io/badge/webpack-646CFF?logo=webpack&logoColor=fff&style=flat)
   ![qiankun Badge](https://img.shields.io/badge/qiankun-092E20?logo=qiankun&logoColor=fff&style=flat)  
-
-```mermaid
-mindmap
-  root((Sapper))
-    编程
-      Web开发
-      Nodejs
-      网络爬虫
-      Go语言
-    摄影
-      人文
-      建筑
-      风景
-    旅行
-      东莞
-      深圳
-      珠海
-      肇庆
-      广州
-      桂林
-      河源
-      佛山
-    阅读
-      人物传记
-      悬疑推理
-      余华合集
-      中国历史
-      心理
-      计算机技术
-```
-<!--
-<code>
-<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="JavaScript" title="JavaScript">
-</code>
-<code>
-<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python"/> 
-</code>
-<code><img height="20" src="https://user-images.githubusercontent.com/29084184/218291328-d57affa6-dba3-4ba1-90ff-25cb273fcd84.png" alt="MongoDB" title="mongodb"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="Docker" title="Docker"></code>
 -->
