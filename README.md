@@ -47,6 +47,11 @@ Hi there, I'm **Sapper**, a **social worker**. Here are some personal imformatio
   <img height="137px"  src="https://github-readme-stats.vercel.app/api?username=wushengzhu&theme=default&show_icons=true&bg_color=30,11998e,44b984&title_color=fff&text_color=fff&icon_color=ffffff&include_all_commits=true" />
   <img height="137px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=wushengzhu&theme=default&show_icons=true&bg_color=30,11998e,44b984&title_color=fff&text_color=fff&icon_color=ffffff&include_all_commits=true&hide_title=true&layout=compact&langs_count=6" />  
 </div>
+<h2>Year <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2>
+<div align="center">
+  <img  src="https://bubkoo-server.vercel.app/365dots" height="196"/>&nbsp;&nbsp;
+</div>
+
 <!-- GitHub 数据统计 -->
 <!--
 <img height="137px" src="https://github-readme-stats.vercel.app/api?username=wushengzhu&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
