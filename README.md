@@ -42,6 +42,7 @@ Hi there, I'm **Sapper**, a **social worker**. Here are some personal imformatio
 
 <!-- GitHub 数据统计 -->
 </div>
+<!--
 <h2>Statistics<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2>
 <div align="center">
   <img height="137px"  src="https://github-readme-stats.vercel.app/api?username=wushengzhu&theme=default&show_icons=true&bg_color=30,11998e,44b984&title_color=fff&text_color=fff&icon_color=ffffff&include_all_commits=true" />
@@ -51,6 +52,8 @@ Hi there, I'm **Sapper**, a **social worker**. Here are some personal imformatio
 <div align="center">
   <img  src="https://bubkoo-server.vercel.app/365dots" height="196"/>&nbsp;&nbsp;
 </div>
+-->
+
 
 <!-- GitHub 数据统计 -->
 <!--
