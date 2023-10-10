@@ -27,7 +27,7 @@ Hi there, I'm **Sapper**, a **social worker**. Here are some personal imformatio
 - Twitter: [![Twitter](https://img.shields.io/badge/@AlbertAbdilim-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/AlbertAbdilim) 
 - Weibo: [![Weibo](https://img.shields.io/badge/@Albert__Abdilim-E6162D?style=flat-square&logo=sina-weibo&logoColor=white)](https://weibo.com/1935602951)
 -->
-
+<!-- 
 <div top="100"></div>
 
 <h2>Repositorys <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2>
@@ -39,8 +39,7 @@ Hi there, I'm **Sapper**, a **social worker**. Here are some personal imformatio
 |       [mutiplexed-elplus](https://github.com/wushengzhu/mutiplexed-elplus)     |![](https://img.shields.io/github/stars/wushengzhu/mutiplexed-elplus?color=f2f08d&logo=Undertale&logoColor=eb4630)| ![](https://img.shields.io/github/forks/wushengzhu/mutiplexed-elplus?color=ba86eb&logo=Handshake&logoColor=ea6aa6) |      🚀 基于Vue的各种业务组件包      |
 |       [auction](https://github.com/wushengzhu/auction)       |![](https://img.shields.io/github/stars/wushengzhu/auction?color=f2f08d&logo=Undertale&logoColor=eb4630)| ![](https://img.shields.io/github/forks/wushengzhu/auction?color=ba86eb&logo=Handshake&logoColor=ea6aa6) |      🚀 基于Angular+Nodejs+MongoDB实现的廉洁拍卖 🧰     |
 |       [interview-column](https://github.com/wushengzhu/interview-column)       | ![](https://img.shields.io/github/stars/wushengzhu/interview-column?color=f2f08d&logo=Undertale&logoColor=eb4630)  | ![](https://img.shields.io/github/forks/wushengzhu/interview-column?color=ba86eb&logo=Handshake&logoColor=ea6aa6) |      🚀 基于vuepress-theme-hope搭建的面试专栏系列       |  
-
-<!-- GitHub 数据统计 -->
+-->
 </div>
 <!--
 <h2>Statistics<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2>
