@@ -27,7 +27,6 @@ Hi there, I'm **Sapper**, a **social worker**. Here are some personal imformatio
 <a href="#">interview-column</a>&nbsp;&#124;&nbsp;
 <a href="#">mutiplexed-elplus</a>
 </div>
-
 <!--
 <h2>Statistics<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2>
 <div align="center">
