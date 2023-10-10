@@ -21,24 +21,11 @@ Hi there, I'm **Sapper**, a **social worker**. Here are some personal imformatio
   <a href="https://github.com/wushengzhu?tab=repositories">
   <img src="https://badges.strrl.dev/repos/wushengzhu?style=flat-square&color=#42B784&logo=github">
   </a>
-
----
-
-  <a href="https://home.wszhu.top">
-    Home
-  </a>
-  &nbsp;&#124;&nbsp;
-  <a href="#">
-    Tools
-  </a>
-  &nbsp;&#124;&nbsp;
- <a href="#">
-    interview-column
-  </a>
-  &nbsp;&#124;&nbsp;
-   <a href="#">
-    mutiplexed-elplus
-  </a>
+<br/>
+<a href="https://home.wszhu.top">Home</a>&nbsp;&#124;&nbsp;
+<a href="#">Tools</a>&nbsp;&#124;&nbsp;
+<a href="#">interview-column</a>&nbsp;&#124;&nbsp;
+<a href="#">mutiplexed-elplus</a>
 </div>
 
 <!--
