@@ -29,62 +29,33 @@ Hi there, I'm **Sapper**, a **social worker**. Here are some personal imformatio
 <a href="#">interview-column</a>&nbsp;&#124;&nbsp;
 <a href="#">mutiplexed-elplus</a>
 </div>
+
 ---
 
 #### Languages
-
-<!-- github-stats:start -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
 <img align="right" width="450" src="https://github-readme-stats.vercel.app/api?username=wushengzhu&show_icons=true&icon_color=0078e7&title_color=0078e7&include_all_commits=true"/>
-<!-- markdownlint-restore -->
-<!-- prettier-ignore-end -->
-<!-- github-stats:end -->
 
-<!-- languages:start -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript" /></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="typescript" /></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="css" /></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="html" /></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" alt="sass" /></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs" /></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" alt="php" /></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python" /></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/yaml/yaml.png" alt="yaml" /></code>
-<!-- markdownlint-restore -->
-<!-- prettier-ignore-end -->
-
-<!-- languages:end -->
-
-#### Frameworks and Tools
-
-<!-- tools:start -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" alt="vue" /></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react" /></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/gulp/gulp.png" alt="gulp" /></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="git" /></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="visual-studio-code" /></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/macos/macos.png" alt="macos" /></code>
-<code><img height="20" src="https://vitejs.dev/logo.svg" alt="vite" /></code>
-<!-- markdownlint-restore -->
-<!-- prettier-ignore-end -->
-
-<!-- tools:end -->
-
-#### Interested
-
-<!-- interested:start -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
-<code><img height="20" src="https://simpleicons.org/icons/blender.svg" alt="blender" /></code>
-<code><img height="20" src="https://user-images.githubusercontent.com/1503156/50446380-ad88c980-094f-11e9-8eff-0094bde708d0.png" alt="cocos" /></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png" alt="unity" /></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unreal-engine/unreal-engine.png" alt="unreal-engine" /></code>
-<code><img height="20" src="https://simpleicons.org/icons/adobeaftereffects.svg" alt="AE" /></code>
+  ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
+  ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat)
+  ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat)
+  ![RxJS Badge](https://img.shields.io/badge/RxJS-F7DF1E?logo=reactivex&logoColor=fff&style=flat)
+  ![TypeScript Badge](https://img.shields.io/badge/TypeScript-F7DF1E?logo=typescript&logoColor=fff&style=flat)
+  <br/>
+  ![Angular Badge](https://img.shields.io/badge/Angular-61DAFB?logo=angular&logoColor=fff&style=flat)
+  ![Vue.js Badge](https://img.shields.io/badge/Vue.js-61DAFB?logo=vuedotjs&logoColor=fff&style=flat)
+  ![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat)
+  <br/>
+  ![MongoDB Badge](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=flat)
+  ![MySQL Badge](https://img.shields.io/badge/MySQL-47A248?logo=mysql&logoColor=fff&style=flat)
+  <br/>
+  ![Python Badge](https://img.shields.io/badge/Python-526?logo=Python&logoColor=fff&style=flat)
+  ![Go Badge](https://img.shields.io/badge/Go-526?logo=go&logoColor=fff&style=flat)
+  ![Node.js Badge](https://img.shields.io/badge/Node.js-526?logo=nodedotjs&logoColor=fff&style=flat)
+  ![Nest.js Badge](https://img.shields.io/badge/Nest.js-526?logo=nestjs&logoColor=fff&style=flat)
+  <br/>
+  ![Vite Badge](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff&style=flat)
+  ![Webpack Badge](https://img.shields.io/badge/webpack-646CFF?logo=webpack&logoColor=fff&style=flat)
+  
 <!--
 <h2>Statistics<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2>
 <div align="center">
