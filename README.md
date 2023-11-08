@@ -36,13 +36,18 @@ Hi there, I'm **Sapper**, a **social worker**. Here are some personal imformatio
 <img align="right" width="450" src="https://github-readme-stats.vercel.app/api?username=wushengzhu&show_icons=true&icon_color=0078e7&title_color=0078e7&include_all_commits=true"/>
 
   ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
-  ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat)
-  ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat)
-  ![RxJS Badge](https://img.shields.io/badge/RxJS-F7DF1E?logo=reactivex&logoColor=fff&style=flat)
-  ![TypeScript Badge](https://img.shields.io/badge/TypeScript-F7DF1E?logo=typescript&logoColor=fff&style=flat)
+  ![Canvas Badge](https://img.shields.io/badge/Canvas-E34F26?logo=canva&logoColor=fff&style=flat)
+  <br/>
+  ![CSS3 Badge](https://img.shields.io/badge/CSS3-F7DF1E?logo=css3&logoColor=fff&style=flat)
+  ![SCSS Badge](https://img.shields.io/badge/SCSS-F7DF1E?logo=Sass&logoColor=fff&style=flat)
+  ![Less Badge](https://img.shields.io/badge/Less-F7DF1E?logo=less&logoColor=fff&style=flat)
+  <br/>
+  ![JavaScript Badge](https://img.shields.io/badge/JavaScript-1572B6?logo=javascript&logoColor=000&style=flat)
+  ![RxJS Badge](https://img.shields.io/badge/RxJS-1572B6?logo=reactivex&logoColor=fff&style=flat)
+  ![TypeScript Badge](https://img.shields.io/badge/TypeScript-1572B6?logo=typescript&logoColor=fff&style=flat)
   <br/>
   ![Angular Badge](https://img.shields.io/badge/Angular-61DAFB?logo=angular&logoColor=fff&style=flat)
-  ![Vue.js Badge](https://img.shields.io/badge/Vue.js-61DAFB?logo=vuedotjs&logoColor=fff&style=flat)
+  ![Vue Badge](https://img.shields.io/badge/Vue-61DAFB?logo=vuedotjs&logoColor=fff&style=flat)
   ![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat)
   <br/>
   ![MongoDB Badge](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=flat)
