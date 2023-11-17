@@ -22,9 +22,9 @@ Hi there, I'm **Sapper**, a **social worker**. Here are some personal imformatio
   <img src="https://badges.strrl.dev/repos/wushengzhu?style=flat-square&color=#42B784&logo=github">
   </a>
 <br/>
-<a href="https://home.wszhu.top">home</a>&nbsp;&#124;&nbsp;
-<a href="https://juejin.cn/user/2098283918929047">juejin</a>&nbsp;&#124;&nbsp;
-<a href="https://www.zhihu.com/people/xian-feng-gu-ying">zhihu</a>&nbsp;&#124;&nbsp;
+<a href="https://home.wszhu.top" target="_blank">home</a>&nbsp;&#124;&nbsp;
+<a href="https://juejin.cn/user/2098283918929047" target="_blank">juejin</a>&nbsp;&#124;&nbsp;
+<a href="https://www.zhihu.com/people/xian-feng-gu-ying" target="_blank">zhihu</a>&nbsp;&#124;&nbsp;
 <a href="#">tools</a>&nbsp;&#124;&nbsp;
 <a href="#">interview-column</a>&nbsp;&#124;&nbsp;
 <a href="#">mutiplexed-elplus</a>
