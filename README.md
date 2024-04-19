@@ -26,7 +26,7 @@ Hi there, I'm **Sapper**, a **social worker**. Here are some personal imformatio
 <a href="https://juejin.cn/user/2098283918929047" target="_blank">juejin</a>&nbsp;&#124;&nbsp;
 <a href="https://www.zhihu.com/people/xian-feng-gu-ying" target="_blank">zhihu</a>&nbsp;&#124;&nbsp;
 <a href="#">tools</a>&nbsp;&#124;&nbsp;
-<a href="#">interview-column</a>&nbsp;&#124;&nbsp;
+<a href="https://wushengzhu.github.io/interview/">interview-column</a>&nbsp;&#124;&nbsp;
 <a href="https://wushengzhu.github.io/mutiplexed-elplus/">mutiplexed-elplus</a>
 </div>
 
