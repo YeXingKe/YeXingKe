@@ -4,7 +4,7 @@
   <img align="right" alt="GIF" src="https://github.githubassets.com/images/modules/site/home-campaign/astrocat.png" width="320" height="320" title="Do what you like, and do it best!"/> &nbsp;&nbsp;
 -->
 
-Hi there, I'm **I'm Mason.Zhu**, a **social worker**. Here are some personal imformations:
+Hi there, I'm **Mason.Zhu**, a **social worker**. Here are some personal imformations:
 
 - 🔭 I have worked in front-end development in Guangzhou and Shenzhen, China.
 - 🎓 I have obtained a Bachelor's degree in Internet of Things Engineering.
