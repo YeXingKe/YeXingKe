@@ -6,7 +6,7 @@
 
 Hi there, I'm **Mason.Zhu**, a **social worker**. Here are some personal imformations:
 
-- 🔭 I have worked in front-end development in Guangzhou and Shenzhen, China.
+- 🔭 I have worked in front-end development in Shenzhen, China.
 - 🎓 I have obtained a Bachelor's degree in Internet of Things Engineering.
 - 😄 Pronouns: Don't overestimate a day's progress, don't underestimate a year's accumulation.
 - 💬 Ask me about anything, I am happy to help;
