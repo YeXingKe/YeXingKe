@@ -33,7 +33,7 @@ Hi there, I'm **Mason.Zhu**, a **social worker**. Here are some personal imforma
 ---
 
 #### Languages
-<img align="right" width="450" src="https://github-readme-stats.vercel.app/api?username=wushengzhu&show_icons=true&icon_color=0078e7&title_color=0078e7&include_all_commits=true"/>
+<img align="right" width="450" src="https://github-readme-stats.vercel.app/api?&include_all_commits=true&username=wushengzhu&show_icons=true&icon_color=0078e7&title_color=0078e7"/>
 
   ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
   ![Canvas Badge](https://img.shields.io/badge/Canvas-E34F26?logo=canva&logoColor=fff&style=flat)
