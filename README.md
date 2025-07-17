@@ -30,7 +30,7 @@ Hi there, I'm **Mason.Zhu**, a **social worker**. Here are some personal imforma
 <a href="https://YeXingKe.github.io/mutiplexed-elplus/">mutiplexed-elplus</a>
 </div>
 
----
+<hr style="border:none;border-top:1px solid #ccc;">
 
 #### Languages
 <img align="right" width="450" src="https://github-readme-stats.vercel.app/api?&include_all_commits=true&username=YeXingKe&show_icons=true&icon_color=0078e7&title_color=0078e7"/>
